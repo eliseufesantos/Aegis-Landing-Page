@@ -1,0 +1,52 @@
+#beneficios{
+    background-image: url(/assets/oceano-azul.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 40vw;
+    padding: 150px;
+}
+
+.titulo__beneficios {
+    color: var(--azul-claro);
+    font-size: 3.5em;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.item__beneficios {
+    list-style-type: none;
+    background: var(--branco-transparente);
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    width: 80em;
+}
+.item__beneficios:hover {
+    transform: translateY(-10px);
+}
+.benefit-icon {
+    font-size: 2.5em;
+    margin-right: 20px;
+    color: #00796b;
+}
+.conteudo__beneficios{
+    display: flex;
+    align-items: center;
+}
+.titulo__benef {
+    font-size: 1.75em;
+    color: var(--azul-escuro);
+    margin: 0;
+    font-weight: bold;
+}
+.texto__benef {
+    margin: 10px 0 0;
+    color: var(--cor-de-fundo);
+    font-size: 1.5em;
+}

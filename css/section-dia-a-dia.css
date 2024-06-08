@@ -1,0 +1,56 @@
+#dia-a-dia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    flex-direction: column;
+    height: 55vw;
+    padding: 150px;
+    color: var(--cor-de-fundo);
+}
+
+.titulo__dia-a-dia {
+    color: var(--branco);
+    font-size: 3.5em;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.conteudo__dia-a-dia {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img__golfinho {
+    width: 570px;
+    height: 450px;
+    border-radius: 25px;
+}
+
+.img__seta {
+    width: 250px;
+    margin: 0 50px;
+}
+
+.img__celular {
+    width: 50px;
+}
+
+.caixa-texto__dia-a-dia {
+    border-radius: 25px;
+    background-color: var(--branco-transparente);
+    width: 50%;
+    padding: 2.5%;
+
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.caixa-texto__dia-a-dia p {
+    font-size: 1.75em;
+    color: var(--cor-de-fundo);
+    font-size: bold;
+    width: 40em;
+}

@@ -1,0 +1,70 @@
+#tecnologia {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 60px;
+    align-items: center;
+    padding: 150px;
+    height: 75vh;
+}
+
+.recurso__tech {
+    color: var(--branco);
+    font-size: 3.5em;
+    font-weight: 700;
+}
+
+.lista__tech {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.coluna__tech {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    gap: 40px;
+    flex-direction: column;
+}
+
+.itens__tech {
+    display: flex;
+    align-items: center;
+    background-color: var(--cinza-escuro) ;
+    border-radius: 20px;
+    gap: 30px;
+    padding: 25px;
+    width: 46em;
+    height: 10em;
+
+}
+
+.num {
+    background: linear-gradient(135deg, #ff0080, #7928ca);
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 15px;
+
+}
+
+.titulo__tech {
+    margin: 0;
+    font-size: 2em;
+    color: var(--azul-claro);
+    font-weight: bold;
+}
+
+.texto__tech {
+    margin: 5px 0 0;
+    font-size: 1.55em;
+    width: 25em;
+}

@@ -1,0 +1,89 @@
+#objetivos {
+    background-image: url(/assets/FooterAegis.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    flex-direction: column;
+    height: 50vw;
+    padding: 200px;
+    margin-top: 80px;
+
+}
+
+.titulo__solução {
+    color: var(--azul-claro);
+    font-size: 3.5em;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.caixa-texto__solução {
+    border-radius: 25px;
+    background-color: var(--cinza-escuro);
+    width: 50%;
+    padding: 4%;
+}
+
+.caixa-texto__solução p {
+    color: var(--branco);
+    font-size: 1.75em;
+}
+/* -----------------------------OBJETIVO----------------------------------------- */
+.titulo__objetivo {
+    color: var(--azul-claro);
+    font-size: 3em;
+    font-weight: 700;
+    margin: 80px 0 20px 0;
+}
+
+.lista__objetivo {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    list-style-type: none;
+    padding: 0;
+}
+
+.item__objetivo {
+    display: flex;
+    align-items: center;
+    background-color: var(--cinza-escuro) ;
+    border-radius: 20px;
+    gap: 30px;
+    padding: 25px;
+    width: 50em;
+    height: 10em;
+
+}
+
+.num__objetivo {
+    background: linear-gradient(135deg, #65c0df, #3528ca);
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px;
+
+}
+
+.titulo__obj {
+    margin: 0;
+    font-size: 2em;
+    color: var(--azul-claro);
+    font-weight: bold;
+}
+
+.texto__obj {
+    margin: 5px 0 0;
+    font-size: 1.55em;
+    width: 27em;
+}
+

@@ -1,0 +1,32 @@
+@import url(css/header.css);
+@import url(css/section-data-ocean.css);
+@import url(css/section-tech.css);
+@import url(css/footer.css);
+@import url(css/contato.css);
+@import url(css/section-problema.css);
+@import url(css/section-solucao.css);
+@import url(css/section-publico.css);
+@import url(css/section-beneficios.css);
+@import url(css/section-dia-a-dia.css);
+@import url(css/contato.css);
+
+:root{
+    --azul-claro: #00d8ff;
+    --azul-escuro: #03031a;
+    --branco-transparente: #e0f7fac0;
+    --branco: #f3f3f3;
+    --rosa: #ff0080;
+    --cinza-escuro: #26262b8a;
+    --fonte-principal: "Josefin Sans", sans-serif;
+    --cor-de-fundo: #090a0c;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--branco)
+}
+
+
