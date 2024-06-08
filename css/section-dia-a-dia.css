@@ -40,8 +40,8 @@
 .caixa-texto__dia-a-dia {
     border-radius: 25px;
     background-color: var(--branco-transparente);
-    width: 50%;
-    padding: 2.5%;
+    width: 69em;
+    padding: 3.5em;
 
     display: flex;
     flex-direction: column;
