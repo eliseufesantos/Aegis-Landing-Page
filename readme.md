@@ -18,10 +18,6 @@ Bem-vindo ao repositório do projeto Aegis! Este projeto é uma landing page que
 - **Benefícios**: Benefícios proporcionados pelo projeto, como dados precisos, engajamento comunitário e suporte à pesquisa.
 - **Dia a Dia**: Exemplos de como diferentes usuários podem interagir com a plataforma no dia a dia.
 - **Contato**: Formulário com *validação* para entrar em contato com Aegis.
-
-## Instruções de Acesso 🛠️
-1. Visite https://eliseufesantos.github.io/vinhariaSite/ para acessar o site hospedado no GitHub Pages.
-2. Navegue pelas diferentes páginas usando os links no cabeçalho do site.
    
 ## OBSERVAÇÔES :warning:
 
@@ -30,6 +26,10 @@ Esse trabalho foi realizado para matérias de Front-End e Web Development.
 - **Responsividade**: O site não é responsivo, pois não aprendemos em aula.
 - **Branches**: Não foram utilizadas branches ou técnicas de versionamento, porque o código foi desenvolvido por apenas uma pessoa.
 - **Contato**: A área de contato não está no cabeçalho para ele não ficar poluído. O contato está após a seção "dia a dia"
+
+## Instruções de Acesso 🛠️
+1. Visite https://eliseufesantos.github.io/vinhariaSite/ para acessar o site hospedado no GitHub Pages.
+2. Navegue pelas diferentes páginas usando os links no cabeçalho do site.
 
 ## Desenvolvedores :alien:
 - **Eliseu Fernando Mendes dos Santos - rm98493**
