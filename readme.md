@@ -23,7 +23,7 @@ Bem-vindo ao repositório do projeto Aegis! Este projeto é uma landing page que
 1. Visite https://eliseufesantos.github.io/vinhariaSite/ para acessar o site hospedado no GitHub Pages.
 2. Navegue pelas diferentes páginas usando os links no cabeçalho do site.
    
-## OBSERVAÇÔES :warning:
+## Observações :warning:
 
 Esse trabalho foi realizado para matérias de Front-End e Web Development.
 
