@@ -8,9 +8,8 @@
     align-items: center;
     gap: 35px;
     flex-direction: column;
-    height: 50vw;
-    padding: 200px;
-    margin-top: 80px;
+    height: 85em;
+    padding: 150px;
 
 }
 
@@ -30,7 +29,7 @@
 
 .caixa-texto__solução p {
     color: var(--branco);
-    font-size: 1.75em;
+    font-size: 1.5em;
 }
 /* -----------------------------OBJETIVO----------------------------------------- */
 .titulo__objetivo {
@@ -83,7 +82,7 @@
 
 .texto__obj {
     margin: 5px 0 0;
-    font-size: 1.55em;
+    font-size: 1.25em;
     width: 27em;
 }
 

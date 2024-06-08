@@ -4,7 +4,7 @@
     align-items: center;
     gap: 100px;
     flex-direction: column;
-    height: 55vw;
+    height: 85em;
     padding: 150px;
     color: var(--cor-de-fundo);
 }
@@ -23,8 +23,8 @@
 }
 
 .img__golfinho {
-    width: 570px;
-    height: 450px;
+    width: 500px;
+    height: 350px;
     border-radius: 25px;
 }
 
@@ -35,13 +35,14 @@
 
 .img__celular {
     width: 50px;
+    height: 150px;
 }
 
 .caixa-texto__dia-a-dia {
     border-radius: 25px;
     background-color: var(--branco-transparente);
     width: 69em;
-    padding: 3.5em;
+    padding: 3em;
 
     display: flex;
     flex-direction: column;
@@ -49,7 +50,7 @@
 }
 
 .caixa-texto__dia-a-dia p {
-    font-size: 1.75em;
+    font-size: 1.5em;
     color: var(--cor-de-fundo);
     font-size: bold;
     width: 40em;

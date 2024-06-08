@@ -6,7 +6,7 @@
     flex-direction: column;
 
     background: linear-gradient(to bottom, #090a0c, #03051a);
-    height: 45vw;
+    height: 50em;
     padding: 150px;
     border-radius: 12px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
@@ -33,7 +33,7 @@
     display: block;
     margin-bottom: 10px;
     color: var(--azul-claro);
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .form__contato input,
@@ -44,7 +44,7 @@
     border-radius: 8px;
     background-color: #333;
     color: var(--branco);
-    font-size: 1.75em;
+    font-size: 1.25em;
     transition: border-color 0.3s, background-color 0.3s;
     font-family: var(--fonte-principal);
 }
@@ -63,7 +63,7 @@
     border: none;
     border-radius: 8px;
     cursor: pointer;
-    font-size: 1.75em;
+    font-size: 1.25em;
     transition: background-color 0.3s, transform 0.3s;
 }
 
