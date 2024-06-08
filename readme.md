@@ -28,7 +28,7 @@ Esse trabalho foi realizado para matérias de Front-End e Web Development.
 - **Contato**: A área de contato não está no cabeçalho para ele não ficar poluído. O contato está após a seção "dia a dia"
 
 ## Instruções de Acesso 🛠️
-1. Visite https://eliseufesantos.github.io/vinhariaSite/ para acessar o site hospedado no GitHub Pages.
+1. Visite para acessar o site hospedado no GitHub Pages.
 2. Navegue pelas diferentes páginas usando os links no cabeçalho do site.
 
 ## Desenvolvedores :alien:
