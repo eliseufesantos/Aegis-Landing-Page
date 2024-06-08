@@ -20,7 +20,7 @@ Bem-vindo ao repositório do projeto Aegis! Este projeto é uma landing page que
 - **Contato**: Formulário com *validação* para entrar em contato com Aegis.
 
 ## Instruções de Acesso 🛠️
-1. Visite https://eliseufesantos.github.io/vinhariaSite/ para acessar o site hospedado no GitHub Pages.
+1. Visite para acessar o site hospedado no GitHub Pages.
 2. Navegue pelas diferentes páginas usando os links no cabeçalho do site.
    
 ## OBSERVAÇÔES :warning:
