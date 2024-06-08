@@ -30,6 +30,6 @@ Esse trabalho foi realizado para matérias de Front-End e Web Development.
 ## Instruções de Acesso 🛠️
 1. Visite https://eliseufesantos.github.io/Aegis-Landing-Page/ para acessar o site hospedado no GitHub Pages.
 2. Navegue pelas diferentes páginas usando os links no cabeçalho do site.
-3. 
+   
 ## Desenvolvedores :alien:
 - **Eliseu Fernando Mendes dos Santos - rm98493**
